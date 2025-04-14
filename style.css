@@ -1,0 +1,51 @@
+*
+ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ header {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("/images/sky.jpg");
+    background-size: cover;
+    background-position: bottom;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .header-content {
+    font-size: 35px;
+    font-family: Limelight;
+    color: beige;
+    text-align: center;
+    height: 70vh;
+ }
+
+ h3 {
+    margin-top: 30px;
+ }
+
+ input {
+    margin-top: 30px;
+    padding: 10px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: beige;
+    border-radius: 8px;
+ }
+
+ .btn-sign {
+    background-color: rgba(215, 32, 120, 0.823);
+    font-size:16px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bold;
+    
+    padding: 10px;
+    border-radius: 8px;
+ }
+  
+  
